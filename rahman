@@ -1,0 +1,7 @@
+#!/usr/bin/python
+a=10
+b=30
+if(a<b):
+	print 'my name is khan'
+else:
+	print 'i m terrorist'	
